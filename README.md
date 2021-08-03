@@ -1,8 +1,4 @@
-# GPT2-CopyAI
-
-## Source Code
-
-[Morizeyao/GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)
+# CopyAI_Worker
 
 ## Requirement Packages
 
